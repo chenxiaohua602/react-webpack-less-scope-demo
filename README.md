@@ -1,7 +1,9 @@
-React Base Project
-==================
+React Webpack Less Scope Demo
+=============================
 
-React base project.
+Test if the css imported from different less file will conflict.
+
+Seems like they are conflict :(
 
 ```
 npm install
